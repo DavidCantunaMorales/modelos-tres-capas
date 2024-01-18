@@ -33,6 +33,7 @@ De igual manera en la carpeta del frontend vamos a tener que instalar las depend
 - npm install
 
 En el envio de la tarea por Moodle tambien incluimos el archivo .rar de los proyectos.
+En el archivo rar hemos quitado los node_modules ya que era demasiado pesado y no permitia subirlo. Para probar la aplicacion se necesita instalar de nuevo en la carpeta del frontend y backend con el comando "npm install"
 
 ## Integrantes del Proyecto
 
