@@ -28,11 +28,11 @@ Para el correcto funcionamiento de la aplicacion dentro de la carpeta del backen
 
 Estamos usando express y cors para el backend.
 
-De igual manera en la carpeta del frontend vamos a tener que instalar las dependencias con el comando
+De igual manera en la carpeta del frontend vamos a tener que instalar las dependencias con el comando:
 
 - npm install
 
-- En el envio de la tarea por Moodle tambien incluimos el archivo .rar de los proyectos.
+En el envio de la tarea por Moodle tambien incluimos el archivo .rar de los proyectos.
 
 ## Integrantes del Proyecto
 
