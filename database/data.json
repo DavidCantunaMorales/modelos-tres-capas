@@ -1,0 +1,64 @@
+{
+  "empresa": [
+    {
+      "nombre": "Tech Solutions Inc.",
+      "direccion": {
+        "calle": "123 Main Street",
+        "ciudad": "Ciudad Tech",
+        "pais": "Techlandia"
+      },
+      "contacto": {
+        "telefono": "123456789",
+        "email": "info@techsolutions.com"
+      }
+    },
+    {
+      "nombre": "ABC Corporation",
+      "contacto": {
+        "nombre": "Laura Gomez",
+        "telefono": "987654321",
+        "email": "laura@abccorp.com"
+      }
+    },
+    {
+      "nombre": "XYZ Enterprises",
+      "contacto": {
+        "nombre": "Juan Ramirez",
+        "telefono": "876543210",
+        "email": "juan@xyzent.com"
+      }
+    },
+    {
+      "nombre": "New Tech Solutions",
+      "direccion": {
+        "calle": "456 Oak Avenue",
+        "ciudad": "Tech City",
+        "pais": "Techlandia"
+      },
+      "contacto": {
+        "telefono": "555123456",
+        "email": "newtech@techsolutions.com"
+      }
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "ABC Corporation",
+      "contacto": {
+        "nombre": "Laura Gomez",
+        "telefono": "987654321",
+        "email": "laura@abccorp.com"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "XYZ Enterprises",
+      "contacto": {
+        "nombre": "Juan Ramirez",
+        "telefono": "876543210",
+        "email": "juan@xyzent.com"
+      }
+    }
+  ]
+}
